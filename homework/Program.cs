@@ -27,12 +27,6 @@ string[] Arr3Fltered = ArrayFiltering(Array3, number);
 ArrayPrint(Arr3Fltered);
 
 
-
-
-
-
-
-
 // ------------------------ Filtering array items
 string[] ArrayFiltering(string[] arrIn, int maxNumber)
 {
